@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rvegarodz from the oldest colony in the world (PR)
-- 👀 I’m just learning about Python
+- 👀 I’m just learning about Software Development
 - 📫 If you need to reach me, send an email to r.vega27@outlook.com
 
 <!---
