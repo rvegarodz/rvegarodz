@@ -9,9 +9,11 @@
 - 👀 I’m just learning about Software Development at Holberton School.
 - 📫 Lets work together, send an email to r.vega27@outlook.com
 
-</div>
+![Rafael Vega Rodriguez' GitHub stats](https://github-readme-stats.vercel.app/api?username=rvegarodz&show_icons=true&hide=contribs&theme=flag-india)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvegarodz&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Rafael O. Vega's GitHub stats](https://github-readme-stats.vercel.app/api?username=rvegarodz)](https://github.com/anuraghazra/github-readme-stats)
+</div>
  
 <!---
 rvegarodz/rvegarodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
