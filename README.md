@@ -9,6 +9,10 @@
 - 👀 I’m just learning about Software Development at Holberton School.
 - 📫 Lets work together, send an email to r.vega27@outlook.com
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rvegarodz&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rvegarodz&langs_count=5&theme=tokyonight)]()
+
+</div>
 
 <!---
 rvegarodz/rvegarodz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
