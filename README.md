@@ -1,10 +1,10 @@
-<div align=center>
-
 👋 Hi, I’m @rvegarodz from Puerto Rico
  
 👀 I’m just learning about Software Development at Holberton School
  
 📫 Lets work together, send an email to r.vega27@outlook.com
+
+<div align=center>
  
 ![Rafael Vega Rodriguez' GitHub stats](https://github-readme-stats.vercel.app/api?username=rvegarodz&show_icons=true&hide=contribs&theme=flag-india)
  
