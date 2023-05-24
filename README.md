@@ -1,7 +1,7 @@
 # Hi there, I'm Rafael O. Vega 👋
 
 <div id="badges" align="center">
-  <a href="ht">
+  <a href="mailto:r.vega27@outlook.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/rvegarodz/">
