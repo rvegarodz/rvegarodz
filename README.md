@@ -1,4 +1,4 @@
-# Full-Stack Software Engineer | Data Analyst
+# Full-Stack Software Engineer
 
 <div id="badges" align="center">
   <a href="mailto:r.vega27@outlook.com">
