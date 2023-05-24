@@ -1,4 +1,4 @@
-# Hi there, I'm Rafael O. Vega 👋
+# Full-Stack Software Engineer | Data Analyst
 
 <div id="badges" align="center">
   <a href="mailto:r.vega27@outlook.com">
